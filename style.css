@@ -1,0 +1,31 @@
+.attribution{
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+}
+
+
+/*Container*/
+
+
+.container{
+
+    max-width: 1100px;
+    margin: auto;
+
+}
+
+/*Calculator*/
+
+#bill-input-container{
+    padding: 15px 0;
+}
+
+#bill-input{
+    
+}
+
+/*Calculator-Inner*/
+
+    /*Calculator-Left*/
+
